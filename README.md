@@ -1,3 +1,5 @@
+**Research account:** this copy is published at [ec75hash/dmra-paper](https://github.com/ec75hash/dmra-paper). The [original repository](https://github.com/jeffreywilliamportfolio/dmra-paper) and its history remain available. [Archived paper v4.3](https://zenodo.org/records/22291463) · [Copy provenance](PUBLICATION_PROVENANCE.md).
+
 # Bundled Dialect Contrasts Measure a Mixture: A Feature-Isolating Matched-Pair Audit of Safety-Critical Support in Language Models
 
 The Dialect-Marked Response Audit (DMRA) protocol paper, version 4.3 (September 2026): paper source, built PDF, and change log. (Version 2.0, June 2026, was titled "Dialect-Marked Response Audit (DMRA): A Matched-Pair Safety-Support Evaluation of AAVE-Marked Prompt Surfaces"; it is kept under `v2/`.)
